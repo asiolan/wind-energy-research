@@ -1,0 +1,1 @@
+# Data Analysis Setup\n\nThis branch will contain scripts and notebooks for analyzing Denmark wind energy data.
